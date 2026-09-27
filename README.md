@@ -85,7 +85,6 @@ child-obesity-food-guide-skill/
 MIT
 
 ---
----
 
 ## 📜 许可 · License
 
